@@ -20,13 +20,15 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/pedrindenard)
 [![C#](https://img.shields.io/badge/c-sharp-black?style=for-the-badge&logo=c-sharp)](https://github.com/pedrindenard)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pedrindenard)
+[![SWIFT](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/pedrindenard)
 
 ### IDEA`s
-[![ANDROID](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)](https://github.com/wervlad)
-[![VISUAL STUDIO CODE](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=vscode)](https://github.com/wervlad)
-[![UNITY](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/wervlad)
-[![INTELLIG](https://img.shields.io/badge/intellig-black?style=for-the-badge&logo=intellig)](https://github.com/wervlad)
-[![POSTMAN](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://github.com/wervlad)
+[![ANDROID](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)](https://github.com/pedrindenard)
+[![VISUAL STUDIO CODE](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=vscode)](https://github.com/pedrindenard)
+[![UNITY](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/pedrindenard)
+[![INTELLIG](https://img.shields.io/badge/intellig-black?style=for-the-badge&logo=intellig)](https://github.com/pedrindenard)
+[![POSTMAN](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://github.com/pedrindenard)
+[![XCODE](https://img.shields.io/badge/xcode-black?style=for-the-badge&logo=xcode)](https://github.com/pedrindenard)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
