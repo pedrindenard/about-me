@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/pedrindenard/about-me/assets/71407814/8243ce2c-ddac-416a-8c4d-66da8a3aafe9" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -41,8 +41,5 @@
   </a>
   <a href="https://github.com/pedrindenard">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrindenard&theme=transparent" />
-  </a>
-  <a href="https://github.com/pedrindenard">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrindenard&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
