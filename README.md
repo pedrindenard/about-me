@@ -33,4 +33,4 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 
 ### FAVORITE LANGUAGES
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=julianawl&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrindenard&theme=dracula)
